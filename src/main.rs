@@ -157,3 +157,5 @@ fn main() {
     let restored_base58 = int_to_base58(restored_base58_integer);
     println!("復元されたBase58文字列: {}", restored_base58);
 }
+
+//実用性なし。供養
